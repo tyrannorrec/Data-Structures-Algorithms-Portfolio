@@ -1,0 +1,13 @@
+Smith       Aaron       55000       3       545-33-5449
+Appleton    Marie       95000       7       992-11-2122
+Shah        Faruk       101000      8       100-22-0214
+Srinivasan  Rajan       80200       6       821-21-3894
+Cheng       Yi          79000       4       322-45-3212
+Ma          Xiaxin      85000       5       211-67-8909
+Herman      Lexie       120000      3       101-11-0221
+Dunwell     Mimi        130000      5       212-11-0243
+Ma          Yoyo        2000000     35      999-99-9999
+Winkler     Henry       5000000     40      111-11-1111
+Henry       Billy       120000      10      123-32-1231
+
+

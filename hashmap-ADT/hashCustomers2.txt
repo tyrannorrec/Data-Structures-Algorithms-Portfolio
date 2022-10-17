@@ -1,0 +1,19 @@
+Smith       Aaron       55000      91131       545-33-5449
+Appleton    Marie       95000      52342    992-11-2122
+Shah        Faruk       101000     78343    100-22-0214
+Srinivasan  Rajan       80200      98093    821-21-3894
+Cheng       Yi          79000      45984    322-45-3212
+Ma          Xiaxin      85000      98374    211-67-8909
+Herman      Lexie       120000     54938    101-11-0221
+Dunwell     Mimi        130000     98343    212-11-0243
+Ma          Yoyo        2000000    87598    999-99-9999
+Winkler     Henry       5000000    43656    111-11-1111
+Henry       Billy       120000     37695    123-32-1231
+Jamison     Heidi       125000     25434    321-43-5432
+Kapur       Rajan       30000      12546    832-09-2123
+Ross        Betsy       76000      54546    323-22-1234
+Gabler      Auttum      99999      15989    989-09-0987
+Hookasheki  Manini      32345      16543    988-888-0987
+
+
+

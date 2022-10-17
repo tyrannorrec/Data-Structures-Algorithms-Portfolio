@@ -1,0 +1,9 @@
+This is an example of a text file.  I am creating fake text to test
+the ability of my program to read in a text file into a string buffer.  
+I then intend to use sscanf to read individual variable contents 
+into their own receptacle variables.  Placeholders are variables that
+hold content in the middle of a process.
+This is the end of my text file.  I am continuing on in my pursuit to
+create artificial text.  
+
+
